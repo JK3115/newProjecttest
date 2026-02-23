@@ -59,6 +59,4 @@ last_name = input("Enter your last name: ")
 country = input("Enter your Country of origin: ")
 age = int(input("Enter your age (as a number:) "))
 
-
 help ('keywords')
-

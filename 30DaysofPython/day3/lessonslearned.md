@@ -1,11 +1,11 @@
 # Lessons learned
 1. During one of the exercises, I could not get a print function to work for this code 
-        "print(2 == slope)"
+       ( "print(2 == slope)"
         The error code was 
         
         "print(2 == slope)
-    ~~~~~^^^^^^^^^^^^
-TypeError: 'str' object is not callable"
+            ~~~~~^^^^^^^^^^^^
+        TypeError: 'str' object is not callable")
 I could not understand at all what was causing it for longer than I'd care to admit. After stepping away and coming back. I realized the error. The line of code had a pretty critical mistake. 
 
         "print=(f"The..."

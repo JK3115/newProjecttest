@@ -43,7 +43,7 @@ print("y-intercept = -2")
 x1,y1,x2,y2=2,2,6,10
 slope=(int((y2 - y1)/ (x2 - x1)))
 print("The slope is ", slope)
-print(f"The Euclidean distance {((x2-x1)**2 + (y2-y1)**2) ** 0.5:.2f}")
+print=(f"The Euclidean distance {((x2-x1)**2 + (y2-y1)**2) ** 0.5:.2f}")
 
 # 10 - Compare the slopes in tasks 8 and 9.
 print(2 == slope)

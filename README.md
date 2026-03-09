@@ -14,6 +14,4 @@ A security-related utility project for evaluating passwords. I will be expanding
 
 ## Notes
 - This workspace is maintained for personal learning and experimentation.
-- Each project has its own `README.md` explaining details; the root README ties them together.
-
 Feel free to review the code, suggest improvements, or use it as a learning reference if you'd like to start learning too!

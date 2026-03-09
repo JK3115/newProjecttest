@@ -1,22 +1,22 @@
-# 🛡️ MyPass: My First Python Project
+#  MyPass: My First Python Project
 
 Welcome to **MyPass**, a desktop password validator. This is my very first project built with **Python**, focusing on GUI (Graphical User Interface) development and string logic with a cybersecurity focus
 
 ---
 
-## 🌟 Overview
+## Overview
 The goal of this project was to create a functional tool that helps users evaluate password strength. It taught me how to bridge the gap between "code logic" and a "user window." I ran into a few issues. I utilized AI to help with creation of code pieces and then fix the errors from my python learning. 
 
 ---
 
-## 🚀 Features
+## Features
 * **Security Check:** Instantly validates if a password meets safety standards (this was simply to create a project, will expand on password complexity and create more options such as including a password generator.)
 * **Visibility Toggle:** A "Show Password" checkbox to mask or reveal text.
 * **Dynamic Feedback:** The UI updates colors (Green/Red) based on the result.
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 Through this project, I mastered several core programming concepts:
 * **Use of Tkinter** this was helpful to create user interction in a window, not just commandline.
 * **Event Handling:** Using buttons to trigger functions.
@@ -25,7 +25,7 @@ Through this project, I mastered several core programming concepts:
 * **The Main Loop:** Understanding how `root.mainloop()` keeps an app running.
 
 ---
-## 🤖 AI-Assisted Learning & Syntax
+## AI-Assisted Learning & Syntax
 I utilized AI to break down complex Python concepts into understandable pieces. Here are the specific functions I mastered during this build:
 
 ### **Tkinter Functions (The UI)**
@@ -41,7 +41,7 @@ I utilized AI to break down complex Python concepts into understandable pieces. 
 * **`.isdigit()`**: A method used to identify if a character is a number.
 ---
 
-## 🛠️ The "Strong Password" Rules
+## The "Strong Password" Rules
 To be marked as **Strong ✅**, the password must pass these four tests:
 
 1.  **Length:** At least 12 characters long.
@@ -50,7 +50,7 @@ To be marked as **Strong ✅**, the password must pass these four tests:
 4.  **Numbers:** Contains at least one digit (0-9).
 ---
 
-## 🧠 Core Concepts Mastered
+## Core Concepts Mastered
 * **Event Handling:** Connecting a button click (`command=`) to a specific Python function.
 * **Boolean Logic:** Using `and` to ensure *all* conditions are met before validating.
 * **Conditional Branching:** Using `if/else` to provide different feedback based on user input.

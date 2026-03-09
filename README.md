@@ -1,4 +1,4 @@
-# Main_projects Workspace
+# Main_projects
 
 ## 30DaysofPython_solutions
 A personal follow-along for the [**30 Days of Python**](https://github.com/Asabeneh/30-Days-Of-Python) challenge created by Asabeneh.  

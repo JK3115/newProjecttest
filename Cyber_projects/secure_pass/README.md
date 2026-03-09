@@ -16,16 +16,6 @@ The goal of this project was to create a functional tool that helps users evalua
 
 ---
 
-## 🛠️ The "Strong Password" Rules
-To be marked as **Strong ✅**, the password must pass these four tests:
-
-1.  **Length:** At least 12 characters long.
-2.  **Uppercase:** Contains at least one CAPITAL letter.
-3.  **Lowercase:** Contains at least one lowercase letter.
-4.  **Numbers:** Contains at least one digit (0-9).
-
----
-
 ## 🧠 What I Learned
 Through this project, I mastered several core programming concepts:
 * **Use of Tkinter** this was helpful to create user interction in a window, not just commandline.

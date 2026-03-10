@@ -3,13 +3,13 @@
 
 A lightweight Python desktop application built with **Tkinter** that evaluates the strength of a password in real-time. This tool is designed to showcase my understanding basic security requirements for strong credentials and my learning experience with python. 
 
-## 🌟 Project Context
+##  Project Context
 This is my **first Python project**, developed to showcase my initial learning in the language. It focuses on several core programming concepts:
 * **GUI Development:** Using the Tkinter library to build a functional desktop interface.
 * **Logic & Validation:** Implementing conditional statements and list comprehensions to verify security requirements.
 * **User Experience:** Incorporating interactive features like visibility toggles and dynamic feedback.
 
-## 🚀 Features
+##  Features
 * **Security Logic:** Automatically validates passwords for complexity.
 * **Interactive UI:** A clean, responsive 600x400 window for user interaction.
 * **Toggle Visibility:** Includes a "Show Password" checkbox to toggle between masked (`***`) and plain text.
@@ -17,11 +17,11 @@ This is my **first Python project**, developed to showcase my initial learning i
   * **Green:** Strong password meets all requirements.
   * **Red:** Weak password needs improvement.
 
-## 🛠️ Built With
+##  Built With
 * **Python 3.x**
 * **Tkinter**: Python’s standard library for Graphical User Interfaces.
 
-## 📥 Installation & Setup
+##  Installation & Setup
 Since this project uses Python's standard library, no external `pip` installations are required.
 
 1. **Clone the repository:**
@@ -33,7 +33,7 @@ Since this project uses Python's standard library, no external `pip` installatio
 ```
 python mypass.py
 ```
-## 📋 Security Criteria
+##  Security Criteria
 
 To receive a **"Strong ✅"** rating, the password must meet the following logic:
 
@@ -42,10 +42,9 @@ To receive a **"Strong ✅"** rating, the password must meet the following logic
 * Contains at least one **lowercase** letter.
 * Contains at least one **number**.
 
-## 📂 Project Structure
+##  Project Structure
 
 * `mypass.py`: The main script containing the Tkinter UI and validation logic.
-* `README.md`: Project documentation and setup instructions.
 
 ---
 ## Acknowledgments & Learning Process
